@@ -2,7 +2,7 @@
 
 NixOS modules and Nix packages for bitcoin-related tools.
 
-## Installation (in configuration.nix) using flakes
+## NixOS installation (in flake.nix)
 
 ```
 {
