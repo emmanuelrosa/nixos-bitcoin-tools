@@ -1,5 +1,7 @@
 # nixos-bitcoin-tools
 
+NOTICE: This repository has been replaced by https://github.com/emmanuelrosa/erosanix.
+
 NixOS modules and Nix packages for bitcoin-related tools.
 
 ## NixOS installation (in flake.nix)
